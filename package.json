@@ -1,0 +1,12 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@xstate/test": "^1.0.0-alpha.0",
+    "jest": "^26.6.3",
+    "xstate": "^4.32.1"
+  }
+}
